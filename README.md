@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm lokend Kanathe</h1>
 <h3 align="center">A passionate full Stack Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://app.lottiefiles.com/animation/1b512b80-f70b-4c73-9388-6acce6ef8f03">
+<img align="right" alt="coding animation" width="400" src="./coding.gif.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendkanathe&label=Profile%20views&color=0e75b6&style=flat" alt="lokendkanathe" /> </p>
 
